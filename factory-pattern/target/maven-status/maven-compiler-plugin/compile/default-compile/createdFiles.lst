@@ -1,0 +1,17 @@
+com\wayne\bean\Shape$ShapeBuilder.class
+com\wayne\bean\Circle.class
+com\wayne\bean\ShapeRequest$ShapeRequestBuilderImpl.class
+com\wayne\bean\ShapeRequest$ShapeRequestBuilder.class
+com\wayne\bean\Square.class
+com\wayne\bean\Rectangle.class
+com\wayne\bean\Rectangle$RectangleBuilder.class
+com\wayne\bean\Shape.class
+com\wayne\bean\Square$SquareBuilder.class
+com\wayne\factory\ImplShapeFactory.class
+com\wayne\bean\Circle$CircleBuilderImpl.class
+com\wayne\bean\Square$SquareBuilderImpl.class
+com\wayne\bean\Rectangle$RectangleBuilderImpl.class
+com\wayne\bean\ShapeRequest.class
+com\wayne\bean\Circle$CircleBuilder.class
+com\wayne\factory\ShapeFactory.class
+com\wayne\factoryPratice\FactoryPratice.class
