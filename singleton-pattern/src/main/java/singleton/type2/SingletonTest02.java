@@ -13,7 +13,7 @@ public class SingletonTest02 {
 
 }
 
-//Double-check 需要用到時才完成實例化，達到懶加載的效果，解決線程安全問題，和同步造成的效能問題。
+//Double-Checked Locking 需要用到時才完成實例化，達到懶加載的效果，synchronized解決線程安全問題，和同步造成的效能問題，推薦使用。
 class Singleton {
 
     private Singleton(){}
